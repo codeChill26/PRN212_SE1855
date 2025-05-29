@@ -1,0 +1,14 @@
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\bin\Release\net9.0\QuadraEquation.exe
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\bin\Release\net9.0\QuadraEquation.deps.json
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\bin\Release\net9.0\QuadraEquation.runtimeconfig.json
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\bin\Release\net9.0\QuadraEquation.dll
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\bin\Release\net9.0\QuadraEquation.pdb
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.AssemblyInfoInputs.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.AssemblyInfo.cs
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.csproj.CoreCompileInputs.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.dll
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\refint\QuadraEquation.dll
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.pdb
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\QuadraEquation.genruntimeconfig.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\QuadraEquation\obj\Release\net9.0\ref\QuadraEquation.dll

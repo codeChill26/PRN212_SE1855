@@ -1,0 +1,4 @@
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\CallByReference\obj\Release\net9.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\CallByReference\obj\Release\net9.0\CallByReference.AssemblyInfoInputs.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\CallByReference\obj\Release\net9.0\CallByReference.AssemblyInfo.cs
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\CallByReference\obj\Release\net9.0\CallByReference.csproj.CoreCompileInputs.cache

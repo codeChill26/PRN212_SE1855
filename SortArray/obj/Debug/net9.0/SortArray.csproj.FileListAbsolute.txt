@@ -1,0 +1,14 @@
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\bin\Debug\net9.0\SortArray.exe
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\bin\Debug\net9.0\SortArray.deps.json
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\bin\Debug\net9.0\SortArray.runtimeconfig.json
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\bin\Debug\net9.0\SortArray.dll
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\bin\Debug\net9.0\SortArray.pdb
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.AssemblyInfoInputs.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.AssemblyInfo.cs
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.csproj.CoreCompileInputs.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.dll
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\refint\SortArray.dll
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.pdb
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\SortArray.genruntimeconfig.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\SortArray\obj\Debug\net9.0\ref\SortArray.dll

@@ -1,0 +1,4 @@
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\Tuples\obj\Debug\net9.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfoInputs.cache
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfo.cs
+D:\FPT MATERIALS\Kì 5\PRN212\PRN212_SE1855\Tuples\obj\Debug\net9.0\Tuples.csproj.CoreCompileInputs.cache

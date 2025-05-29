@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Var&Dynamic/1.0.0": {
+        "runtime": {
+          "Var&Dynamic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Var&Dynamic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
